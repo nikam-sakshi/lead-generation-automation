@@ -15,7 +15,6 @@ This project automates the process of collecting, cleaning, and organizing lead 
 - Python  
 - Pandas  
 - Google Colab  
-- OpenPyXL
 
 ## ▶️ How to Run
 
