@@ -15,7 +15,13 @@ This project automates the process of collecting, cleaning, and organizing lead 
 - Python  
 - Pandas  
 - Google Colab  
-- OpenPyXL  
+- OpenPyXL
+
+▶️ How to Run
+Install dependencies:
+pip install -r requirements.txt
+Open the notebook:
+lead_generation_automation.ipynb
 
 ## 📂 Output
 Final cleaned dataset saved as `final_leads.xlsx`
