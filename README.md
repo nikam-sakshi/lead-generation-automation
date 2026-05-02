@@ -28,7 +28,7 @@ pip install -r requirements.txt
 2. Open the notebook:
 
 ```
-analysis.ipynb
+lead_generation_automation.ipynb
 ```
 
 ## 📂 Output
